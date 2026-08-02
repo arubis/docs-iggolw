@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-1tvkco.bobatoto8vcf.cfd/sitemap.xml
